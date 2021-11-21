@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @cmuriukin
-- 👀 I’m interested in Devops
-- 🌱 I’m currently learning Docker/Kubernetes
-- 💞️ I’m looking to collaborate on CI/CD Pipelines
+- IT Professional with 4 years of Cloud Operations, DevOps and Linux System Engineering experiences in on premise and cloud environments. Enthusiastic and innovative team player providing efficient and timely engineering solutions within deadlines. Strong verbal and written communication skills.
 - 📫 How to reach me c.muriukin@gmail.com
 
 <!---
